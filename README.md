@@ -1,1 +1,1 @@
-# Templates para coleções de NFTs
+# Template para Coleção de NFTs
