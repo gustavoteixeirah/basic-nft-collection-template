@@ -1,0 +1,15 @@
+{
+  "name": "basic-nft-collection-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/gustavoteixeiradev/basic-nft-collection-template.git",
+  "author": "Gustavo Teixeira <contact@gustavoteixeira.dev>",
+  "license": "MIT",
+  "scripts": {
+    "build": "sol-merger \"./contracts/*.sol\" ./build"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.2",
+    "sol-merger": "^3.1.0"
+  }
+}
